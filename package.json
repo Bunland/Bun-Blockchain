@@ -1,0 +1,26 @@
+{
+  "name": "bun-blockchain",
+  "version": "1.0.0",
+  "description": "a micro blockchain made with Bun",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "bun server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bun-Examples/Bun-Blockchain.git"
+  },
+  "keywords": [
+    "bun",
+    "blockchain",
+    "sha256",
+    "vitalspace"
+  ],
+  "author": "vitalspace",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Bun-Examples/Bun-Blockchain/issues"
+  },
+  "homepage": "https://github.com/Bun-Examples/Bun-Blockchain#readme"
+}
